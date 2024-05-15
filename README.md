@@ -1,2 +1,2 @@
-# HotelReservation
-School Group Project using Java
+# Hotel Reservation System
+The final project for Object-Oriented Programming (OOP) subject.
