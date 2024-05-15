@@ -1,2 +1,2 @@
 # Hotel Reservation System
-The final project for Computer Programming III subject.
+The final project for Computer Programming III (Java) subject.
