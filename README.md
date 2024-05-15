@@ -1,2 +1,2 @@
 # Hotel Reservation System
-The final project for Object-Oriented Programming (OOP) subject.
+The final project for Computer Programming III subject.
